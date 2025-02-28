@@ -1,0 +1,1 @@
+- Estudante da UFPA, atualmente aprendendo Python e C
