@@ -1,4 +1,4 @@
-## Estudante da ufpa com interesse em jogos
+## Estudante da ufpa com interesse em jogos e desenhos fofos
 <p align='center'>
   <img src='https://pa1.narvii.com/6045/780031a6a9f85809bbd47266c07aa3eef88e1ca5_hq.gif'/>
 </p>
