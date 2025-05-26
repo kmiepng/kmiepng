@@ -1,6 +1,6 @@
 - Estudante da UFPA, atualmente aprendendo Python e C
 <p align="left">
   <a href="https://skillicons.dev">
-     <img src="https://skillicons.dev/icons?i=python,c,vscode"/>
+     <img src="https://skillicons.dev/icons?i=python,c,vscode,typescript,javascript"/>
   </a>
 </p>
