@@ -1,13 +1,25 @@
-## Estudante da ufpa com interesse em jogos e desenhos fofos
+# Oiii! Eu sou a Kamila (❁´◡`❁)
+**`Desenvolvedor em formação`**
+<p>Gosto de coisas fofas ╰(*°▽°*)╯<p>
 <p align='center'>
-  <img src='https://pa1.narvii.com/6045/780031a6a9f85809bbd47266c07aa3eef88e1ca5_hq.gif'/>
+  <img src='https://pa1.narvii.com/6045/780031a6a9f85809bbd47266c07aa3eef88e1ca5_hq.gif' width="300"/>
 </p>
 
-<head>
-  <h2> Habilidades em desenvolvimento </h2>
-</head>
-<p align="center">
-  <a href="https://skillicons.dev">
-     <img src="https://skillicons.dev/icons?i=python,c,vscode,typescript,javascript"/>
-  </a>
-</p>
+## Escolaridade 👩‍🎓
+- Cursando Bacharelado em Ciência da Computação na UFPA
+##
+
+### Estatísticas 📊
+
+![Kamie GitHub stats](https://github-readme-stats.vercel.app/api?username=kmiepng&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br)
+
+### Habilidades em Desenvolvimento ☆*: .｡. o(≧▽≦)o .｡.:*☆
+<div style="display: inline_block"><br/>
+  <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-FFFACD.svg?style=for-the-badge&logo=JavaScript&logoColor=black" />
+  <img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-6495ED.svg?style=for-the-badge&logo=TypeScript&logoColor=white" />
+  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white" />
+</div>
+
+### IDEs 👩‍💻
+
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
