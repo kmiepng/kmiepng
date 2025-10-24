@@ -9,10 +9,6 @@
 - Cursando Bacharelado em Ciência da Computação na UFPA
 ##
 
-### Estatísticas 📊
-
-![Kamie GitHub stats](https://github-readme-stats.vercel.app/api?username=kmiepng&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br)
-
 ### Habilidades em Desenvolvimento ☆*: .｡. o(≧▽≦)o .｡.:*☆
 <div style="display: inline_block"><br/>
   <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-FFD700.svg?style=for-the-badge&logo=JavaScript&logoColor=black" />
