@@ -3,12 +3,11 @@
   <img alt="Fairy" src="https://img.shields.io/badge/FAIRY-E972B9" />
   <img alt="Fire" src="https://img.shields.io/badge/FIRE-BD311E" />
 </p>
-Aspirante à Dev Full Stack, com foco em Front End ╰(*°▽°*)╯ 
+
+Desenvolvendo habilidades e conhecimentos na área de Dados e WebDev ☆*: .｡. o(≧▽≦)o .｡.:*☆
 
 ### Escolaridade (♡˙︶˙♡)
  Cursando Bacharelado em Ciência da Computação na UFPA 
-
-## Habilidades em Desenvolvimento ☆*: .｡. o(≧▽≦)o .｡.:*☆
 
 ### Linguagens ( : ౦ ‸ ౦ : )
 <p>
