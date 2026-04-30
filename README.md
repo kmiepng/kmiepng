@@ -17,6 +17,7 @@ Desenvolvendo habilidades e conhecimentos na área de Dados e WebDev ☆*: .｡.
   <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS-9370DB?logo=CSS&logoColor=white"/>
   <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML-FF8C00?logo=HTML5&logoColor=white"/>
   <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-27BBF5?logo=MySQL&logoColor=white"/>
+  <img align="center" alt="Rust" src="https://img.shields.io/badge/Rust-000000?logo=Rust&logoColor=white"/>
 </p>
 
 ### Ferramentas („ಡωಡ„)
